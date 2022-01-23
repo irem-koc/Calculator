@@ -32,19 +32,19 @@ while True:
     elif a =="1":
         first = int(input("First number: "))
         second = int(input("Second number: "))
-        print(sum(first, second))
+        print("Summision of them: ",sum(first, second))
     elif a =="2":
         first = int(input("First number: "))
         second = int(input("Second number: "))
-        print(difference(first, second))
+        print("Difference of them: ",difference(first, second))
     elif a=="3":
         first = int(input("First number: "))
         second = int(input("Second number: "))
-        print(product(first, second))
+        print("Product of them: ",product(first, second))
     elif a=="4":
         first = int(input("First number: "))
         second = int(input("Second number: "))
-        print(divide(first, second))
+        print("Division of them: ",divide(first, second))
     elif a=="q":
         print("See you later {}".format(name))
         break
