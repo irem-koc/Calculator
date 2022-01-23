@@ -1,4 +1,5 @@
 # for this project I wanna create a calculation machine!
+# this app takes an input and return anything what you want!
 
 print("Nice to see you there, welcome to our application!")
 print("*****************************************************\n")
@@ -48,4 +49,4 @@ while True:
         print("See you later {}".format(name))
         break
     else:
-        print("Enter a valid input!!")
+        print("Enter a valid input!! ")
